@@ -1,0 +1,16 @@
+# Robots.txt for Surge Software Solutions
+# Adobe Experience Cloud Partner
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://surgesoftware.co.in/sitemap.xml
+Sitemap: https://surgesoftware.co.in/sitemap-images.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
