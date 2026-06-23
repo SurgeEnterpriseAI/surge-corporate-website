@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- 4. Typewriter Effect ---
-    const texts = ["Digital Future", "Next Evolution", "Customer Success"];
+    const texts = ["AI-Driven Future", "Intelligent Enterprise", "Next Evolution"];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
